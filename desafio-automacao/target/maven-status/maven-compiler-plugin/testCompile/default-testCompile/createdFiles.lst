@@ -1,0 +1,16 @@
+pageObjects\AdressPageCart.class
+elementMapper\LoginPageElementMapper.class
+utils\Browser.class
+elementMapper\ProductPageElementMapper.class
+utils\Utils.class
+pageObjects\HomePage.class
+testes\SetupTest.class
+pageObjects\ProductPage.class
+testes\BaseTest.class
+elementMapper\CartElementMapper.class
+elementMapper\HomePageElementMapper.class
+pageObjects\LoginPage.class
+pageObjects\BasePage.class
+pageObjects\ShippingPageCart.class
+pageObjects\SummaryPageCart.class
+pageObjects\PaymentPageCart.class
