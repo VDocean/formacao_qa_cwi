@@ -6,6 +6,6 @@
  
  Framework: **Selenium Webdriver**(testes de aplicações web) e **Postman** (testes API).
  
- Linguagem de progrmação ultilizada: **JAVA**
+ Linguagem de programação ultilizada: **JAVA**
  
  
